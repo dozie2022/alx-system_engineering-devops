@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=ls -l
+paste-- | cut -f 1
